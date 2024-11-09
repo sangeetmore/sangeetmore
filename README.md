@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scaling NoSQL databases horizontally and GoLang**
 
-- 💬 Ask me about **Next.js, Express.js**
+- 💬 Ask me about **Next.js, Express.js and Hosting**
 
 - 📫 How to reach me **moresangeet@gmail.com**
 
