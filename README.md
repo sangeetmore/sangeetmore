@@ -1,4 +1,7 @@
-#Hi 👋, I'm Sangeet More
+<p>
+<b>Hi 👋, I'm Sangeet More<b>
+</p>
+  
 <p>
 <i>A full-stack developer with a passion for upcoming tech to scale up and optimize solutions. I have also been a project manager for 2 years now, helping me shine light on my management skills when it comes to time and organizations<i>
 </p>
