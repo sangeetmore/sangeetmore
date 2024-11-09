@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangeet More</h1>
 <h3 align="center">A full-stack developer with a passion for upcoming tech to scale up and optimize solutions. I have also been a project manager for quite some time, helping me shine light over my management skills when it comes to time and organizations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeetmore&label=Profile%20views&color=0e75b6&style=flat" alt="sangeetmore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeetmore" alt="sangeetmore" /></a> </p>
-
 - 🔭 I’m currently working on **Next.js projects, Open-source LLMs, Learning and Optimizing WebApp deployment on VPS and Cloud Providers**
 
 - 🌱 I’m currently learning **GoLang, Nest.js and 3D.js**
