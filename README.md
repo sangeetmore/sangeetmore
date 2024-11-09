@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **moresangeet@gmail.com**
 
+- **“I have approximate answers and possible beliefs and different degrees of uncertainty about different things, but I am not absolutely sure of anything” - Richard Feynman**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sangxxtmvre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangxxtmvre" height="30" width="40" /></a>
