@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on **GoLang, Typescript and JS Backend Projects**
 
+- 👀 Im interested in **LLMs, Decentralization, Scaling and Optimizing Solutions**
+
 - 🤝 I’m looking for help with **Scaling NoSQL databases horizontally and GoLang**
 
 - 💬 Ask me about **Next.js, Nuxt.js and DevOps**
