@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GoLang, Nest.js and 3D.js**
 
-- 👯 I’m looking to collaborate on **Go Lang, Typescript and JS Backend Projects**
+- 👯 I’m looking to collaborate on **GoLang, Typescript and JS Backend Projects**
 
 - 🤝 I’m looking for help with **Scaling NoSQL databases horizontally and GoLang**
 
