@@ -1,10 +1,8 @@
-<p>
-<b>Hi 👋, I'm Sangeet More<b>
-</p>
-  
-<p>
+<h3>Hi 👋, I'm Sangeet More<h3>
+
+<h4>
 <i>A full-stack developer with a passion for upcoming tech to scale up and optimize solutions. I have also been a project manager for 2 years now, helping me shine light on my management skills when it comes to time and organizations<i>
-</p>
+</h4>
 
 - 🔭 I’m currently working on **Next.js projects, Open-source LLMs, Learning and Optimizing WebApp deployment on VPS and Cloud Providers**
 
@@ -14,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Scaling NoSQL databases horizontally and GoLang**
 
-- 💬 Ask me about **Next.js, Express.js and Hosting**
+- 💬 Ask me about **Next.js, Express.js and DevOps**
 
 - 📫 How to reach me **moresangeet@gmail.com**
 
