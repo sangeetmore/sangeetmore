@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Scaling NoSQL databases horizontally and GoLang**
 
-- 💬 Ask me about **Next.js, Express.js and DevOps**
+- 💬 Ask me about **Next.js, Nuxt.js and DevOps**
 
 - 📫 How to reach me **moresangeet@gmail.com**
 
