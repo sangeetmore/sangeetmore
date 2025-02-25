@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Next.js projects, Open-source LLMs, Learning and Optimizing WebApp deployment on VPS and Cloud Providers**
 
-- 🌱 I’m currently learning **GoLang, Nest.js and 3D.js**
+- 🌱 I’m currently learning **GoLang, Hono and 3D.js**
 
 - 👯 I’m looking to collaborate on **GoLang, Typescript and JS Backend Projects**
 
