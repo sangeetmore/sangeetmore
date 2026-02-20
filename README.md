@@ -1,18 +1,16 @@
 <h3>Hi 👋, I'm Sangeet More<h3>
 
 <h4>
-<i>A full-stack developer with a passion for upcoming tech to scale up and optimize solutions. I have also been a project manager for 2 years now, helping me shine light on my management skills when it comes to time and organizations<i>
+<i>A programmer with a passion for upcoming tech to scale up and optimize solutions. Experienced with curating systems, applications, servers along with AI/MCP integrations. I have also been a project manager for 2 years now, helping me shine light on my management skills when it comes to time and organizations<i>
 </h4>
 
-- 🔭 I’m currently working on **Next.js projects, Open-source LLMs, Learning and Optimizing WebApp deployment on VPS and Cloud Providers**
+- 🔭 I’m currently working on **Next.js projects, Open-source LLMs, AWS, Backend, AI and MCP Integration**
 
-- 🌱 I’m currently learning **GoLang, Hono and 3D.js**
+- 🌱 I’m currently learning **GoLang, AI Integrations, and Automation suites**
 
 - 👯 I’m looking to collaborate on **GoLang, Typescript and JS Backend Projects**
 
 - 👀 I'm interested in **LLMs, Decentralization, Scaling and Optimizing Solutions**
-
-- 🤝 I’m looking for help with **Scaling NoSQL databases horizontally and GoLang**
 
 - 💬 Ask me about **Next.js, Nuxt.js and DevOps**
 
